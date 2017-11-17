@@ -1,0 +1,16 @@
+# Ignore these meta files
+
+## IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+
+## Java/Kotlin
+build/
+
+## Gradle
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+
